@@ -1,4 +1,4 @@
-#### AngularPreparations2025
+### AngularPreparations2025
 
 ## Interview Use Case
 
