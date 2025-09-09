@@ -1,6 +1,7 @@
-### AngularPreparations2025
 
-## Interview Use Case
+## AngularPreparations2025
+
+### Interview Use Case
 
 Development of a small frontend app for the Animal fact json which is in data/json of this solution.
 
